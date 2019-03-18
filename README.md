@@ -12,11 +12,11 @@ Simples formulário com tela de login, cadastro e listagem.
 
 | LOGIN | FORMULÁRIO |
 | --- | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/967/412/original/Captura_de_Tela_2019-03-17_às_22.15.55.png" width="450" height="250" /> | <img src="https://uploaddeimagens.com.br/images/001/967/417/original/Captura_de_Tela_2019-03-17_às_22.16.33.png" width="450" height="250" />
+| <img src="https://uploaddeimagens.com.br/images/001/967/412/original/Captura_de_Tela_2019-03-17_às_22.15.55.png" width="440" height="250" /> | <img src="https://uploaddeimagens.com.br/images/001/967/417/original/Captura_de_Tela_2019-03-17_às_22.16.33.png" width="440" height="250" />
 
 | LISTAGEM |
 | --- |
-|<img src="https://uploaddeimagens.com.br/images/001/967/418/original/Captura_de_Tela_2019-03-17_às_22.16.55.png" width="450" height="250" /> 
+|<img src="https://uploaddeimagens.com.br/images/001/967/418/original/Captura_de_Tela_2019-03-17_às_22.16.55.png" width="440" height="250" /> 
 
 ## Documentação
 A documentação do PHP está disponível em [website](https://laravel.com/docs/).
