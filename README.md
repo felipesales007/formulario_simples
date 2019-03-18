@@ -4,7 +4,7 @@
 
 ![alt text](https://uploaddeimagens.com.br/images/001/967/415/original/Captura_de_Tela_2019-03-17_às_22.16.24.png "tela")
 
-Simples formulário com tela de login, cadastro e listagem, desenvolvido para um setor de serviço social de um ambulatório criado para uma atividade para a faculdade.
+Simples formulário com tela de login, cadastro e listagem, desenvolvido para um setor de serviço social de um ambulatório como forma de uma atividade para a faculdade.
 
 ## Versão disponível
 
