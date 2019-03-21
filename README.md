@@ -22,7 +22,7 @@ Simples formulário com tela de login, cadastro e listagem, desenvolvido para um
 
 ## Documentação
 
-A documentação do PHP está disponível em [website](https://laravel.com/docs/).
+A documentação do PHP está disponível em [website](http://www.php.net/).
 
 ## Suporte nos navegadores
 
