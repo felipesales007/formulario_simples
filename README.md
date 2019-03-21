@@ -8,7 +8,7 @@ Simples formulário com tela de login, cadastro e listagem, desenvolvido para um
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/)
 
 ## Mais telas
 
